@@ -5,7 +5,15 @@
       "Bash(cp \"C:\\\\Users\\\\RishikeshKumar\\\\Documents\\\\Study\\\\Spring\\\\demo\\\\.claude\\\\skills\\\\pr-description.md\" \"C:\\\\Users\\\\RishikeshKumar\\\\Documents\\\\Study\\\\Spring\\\\demo\\\\.claude\\\\skills\\\\pr-description\\\\SKILL.md\")",
       "Bash(git init *)",
       "Bash(git add *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(mkdir -p /c/Users/RishikeshKumar/Documents/Study/Spring/demo/src/main/java/com/conceptandcoding/demo/corejava/collection)",
+      "Bash(mkdir -p /c/Users/RishikeshKumar/Documents/Study/Spring/demo/src/main/java/com/conceptandcoding/demo/corejava/concurrency)",
+      "Bash(mkdir -p /c/Users/RishikeshKumar/Documents/Study/Spring/demo/src/main/java/com/conceptandcoding/demo/corejava/multithreading)",
+      "Bash(mkdir -p /c/Users/RishikeshKumar/Documents/Study/Spring/demo/src/main/java/com/conceptandcoding/demo/corejava/java8/anonymous)",
+      "Bash(mkdir -p /c/Users/RishikeshKumar/Documents/Study/Spring/demo/src/main/java/com/conceptandcoding/demo/corejava/java8/exceptionHandling)",
+      "Bash(git push *)",
+      "Bash(git remote *)",
+      "Bash(gh pr *)"
     ]
   }
 }
